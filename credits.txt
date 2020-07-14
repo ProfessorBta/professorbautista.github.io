@@ -1,0 +1,19 @@
+------------------------------------------
+ CREDITS
+------------------------------------------
+
+    - Bootstrap 4   -   https://getbootstrap.com
+
+    - Font Awesome  -   https://fontawesome.com/start
+
+
+
+------------------------------------------
+ Images
+------------------------------------------
+
+    - Pexels.com   -   https://www.pexels.com/photo/man-in-white-dress-shirt-926390/
+
+    Photo by Clément H on Unsplash
+
+<span>Photo by <a href="https://unsplash.com/@clemhlrdt?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Clément H</a> on <a href="https://unsplash.com/s/photos/web-development?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
