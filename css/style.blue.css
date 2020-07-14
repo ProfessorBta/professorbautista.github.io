@@ -133,7 +133,8 @@ a.contact-item .contact-item-title, a.contact-item p {
 
 @media (max-width: 991.98px) {
   .hero::before {
-    /*background: rgba(46, 51, 73, 0.5);*/
+    background-size: cover;
+    background: rgba(46, 51, 73, 0.5);
     width: 100%;
   }
 }
